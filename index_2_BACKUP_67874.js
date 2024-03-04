@@ -1,5 +1,9 @@
 <template>
-<van-form @submit="onSubmitonSubmitonSubmitonSubmit">
+<<<<<<< HEAD
+  <van-form @submit="onSubmitonSubmitonSubmitonSubmit">
+=======
+  <van-form @submit="onSubmit333333">
+>>>>>>> 8a0992f1ea9c98dbfd64894388ed504971a889e8
     <van-field
       v-model="formData.email"
       name="email"

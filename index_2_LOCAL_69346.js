@@ -1,5 +1,5 @@
 <template>
-<van-form @submit="onSubmitonSubmitonSubmitonSubmit">
+  <van-form @submit="onSubmitonSubmitonSubmitonSubmit">
     <van-field
       v-model="formData.email"
       name="email"
